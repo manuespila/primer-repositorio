@@ -1,0 +1,38 @@
+.main .budin {
+    font-size: 35px;
+    text-align: left;
+    padding-left: 300px;
+    list-style-type: none;
+
+}
+
+.main .menu-budines {
+    color: #b30809;
+    padding-left: 280px;
+    position: relative;
+    top: -40px;
+    display: flex;
+    flex-direction: column;
+}
+
+.main .menu {
+    list-style-type: none;
+    color: #b30809;
+}
+
+.main .menu-tortas {
+    color: #b30809;
+    padding-left: 880px;
+    position: relative;
+    top: -200px;
+}
+
+.main .tortas {
+    font-size: 35px;
+    text-align: right;
+    list-style-type: none;
+    padding-right: 335px;
+    position: absolute;
+    top: 167px;
+    left: 900px;
+}
