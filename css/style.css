@@ -33,7 +33,28 @@ h2 {
     font-style: normal;
 }
 
+h3 {
+    color: #b30809;
+    font-family: the-seasons, sans-serif;
+    font-style: normal;
+    text-align: center;
+    font-weight: bold;
+}
+
+h4 {
+    color: #b30809;
+    font-family: the-seasons, sans-serif;
+    font-style: normal;
+}
+
 /* Main */
+
+.card-menu {
+    background-color: #FFE2EC;
+    color: black;
+    font-family: the-seasons, sans-serif;
+    font-style: normal
+}
 
 .main .texto {
     color: #b30809;
